@@ -8,7 +8,7 @@ Este repositorio contiene un script y configuraciones personalizadas para config
 - **Terminal personalizada:** Kitty con temas específicos
 - **Shell avanzada:** Zsh con Powerlevel10k
 - **Compositor:** Picom para transparencias y sombras
-- **Fondos de pantalla:** Nitrogen configurado con imágenes personalizadas
+- **Fondos de pantalla:** Feh para el Wallpaper
 
 ## Requisitos
 - Kali Linux (o Debian-based)
@@ -21,3 +21,5 @@ Este repositorio contiene un script y configuraciones personalizadas para config
    ```bash
    git clone https://github.com/yourusername/kali-bspwm-setup.git
    cd kali-bspwm-setup
+   chmod +x setup.sh
+   ./setup.sh
