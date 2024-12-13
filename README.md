@@ -19,7 +19,11 @@ Este repositorio contiene un script y configuraciones personalizadas para config
 1. Clona este repositorio:
    
    ```bash
-   git clone https://github.com/yourusername/kali-bspwm-setup.git
+   
+   git clone https://github.com/theBhacker/Custom-Bspwm.git
+   
    cd kali-bspwm-setup
+   
    chmod +x setup.sh
+   
    ./setup.sh
