@@ -27,7 +27,13 @@ Este repositorio contiene un script y configuraciones personalizadas para config
    
    ./setup.sh
    ```
-   
+   ## Preview del entorno
+   ![preview1](/Preview/preview1.png "preview1")
+   ![preview2](/Preview/preview2.png "preview2")
+
+
+
+
    #Atajos de Teclado ⌨️
 
 - **Windows + Enter**: Abre una ventana del emulador de terminal (kitty).  
