@@ -52,7 +52,7 @@ chmod +x setup.sh
 ## Atajos de Teclado en Español
 - <kbd>Windows</kbd> + <kbd>Enter</kbd>: Abre una ventana del emulador de terminal (kitty).  
 - <kbd>Windows</kbd> + <kbd>W</kbd>: Cierra la ventana actual.  
-- <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd>: Reinicia la configuración de bspwm.  
+- <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>: Reinicia la configuración de bspwm.  
 - <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>: Cierra la sesión.  
 - <kbd>Windows</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Navega entre las ventanas en el espacio de trabajo actual.  
 - <kbd>Windows</kbd> + <kbd>D</kbd>: Abre Rofi. Pulsa <kbd>Esc</kbd> para salir.  
