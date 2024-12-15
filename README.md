@@ -49,46 +49,46 @@ chmod +x setup.sh
 
    #Atajos de Teclado ⌨️
 
-- **Windows + Enter**: Abre una ventana del emulador de terminal (kitty).  
-- **Windows + W**: Cierra la ventana actual.  
-- **Windows + Alt + R**: Reinicia la configuración de bspwm.  
-- **Windows + Alt + Q**: Cierra la sesión.  
-- **Windows + (⬆⬅⬇➡)**: Navega entre las ventanas en el espacio de trabajo actual.  
-- **Windows + D**: Abre Rofi. Pulsa Esc para salir.  
-- **Windows + (1,2,3,4,5,6,7,8,9,0)**: Cambia al espacio de trabajo correspondiente.  
-- **Windows + T**: Cambia la ventana actual al modo mosaico.  
-- **Windows + M**: Alterna la ventana actual al modo "completo" (no ocupa la Polybar). Pulsa las mismas teclas para volver al modo mosaico.  
-- **Windows + F**: Cambia la ventana actual al modo de pantalla completa (ocupa toda la pantalla, incluida la Polybar).  
-- **Windows + S**: Cambia la ventana actual al modo flotante.  
-- **Windows + Shift + (1,2,3,4,5,6,7,8,9,0)**: Mueve la ventana actual a otro espacio de trabajo.  
-- **Windows + Alt + (⬆⬅⬇➡)**: Redimensiona la ventana actual (solo funciona si está en modo flotante).  
-- **Windows + Ctrl + (⬆⬅⬇➡)**: Cambia la posición de la ventana actual (solo funciona si está en modo flotante).  
-- **Windows + Shift + F**: Abre Firefox.  
-- **Windows + Shift + B**: Abre Burpsuite.  
-- **Ctrl + Alt + L**: Bloquea la pantalla.  
-- **Ctrl + Shift + ⬆⬇**: Sube/baja el volumen.  
-- **Ctrl + Shift + M**: Activa/desactiva el silencio.  
-- **Windows + Ctrl + Alt + (⬆⬅⬇➡)**: Muestra una preselección y luego abre una ventana (kitty, Firefox, gestor de archivos, etc.).  
-  - **Windows + Ctrl + Alt + Espacio**: Deshace la preselección.  
-- **Ctrl + Shift + Enter**: Abre una subventana en la ventana actual.  
-- **Ctrl + Shift + Z**: Amplía la subventana actual.  
-- **Ctrl + (⬆⬅⬇➡)**: Navega entre las subventanas en la ventana actual.  
-- **Ctrl + Shift + R**: Redimensiona la subventana actual. Luego usa:  
-  - **W** para 'Más ancho'.  
-  - **N** para 'Más estrecho'.  
-  - **T** para 'Más alto'.  
-  - **S** para 'Más bajo'.  
-  - **R** para 'Restablecer'.  
-  - **Esc** para salir del modo de redimensionado.  
-- **Ctrl + Shift + L**: Alterna la disposición de las subventanas.  
-- **Ctrl + Shift + W**: Cierra la subventana o pestaña actual.  
-- **Ctrl + Shift + T**: Abre una pestaña en la ventana actual.  
-- **Ctrl + Shift + Alt + T**: Renombra el título de la pestaña actual.  
-- **Ctrl + Shift + (⬅➡)**: Navega entre pestañas actuales.  
-- **Ctrl + Shift + C**: Copia al portapapeles.  
-- **Ctrl + Shift + V**: Pega desde el portapapeles.  
-- **F1**: Copia al buffer A.  
-- **F2**: Pega desde el buffer A.  
-- **F3**: Copia al buffer B.  
-- **F4**: Pega desde el buffer B.  
-
+## Atajos de Teclado en Español
+- <kbd>Windows</kbd> + <kbd>Enter</kbd>: Abre una ventana del emulador de terminal (kitty).  
+- <kbd>Windows</kbd> + <kbd>W</kbd>: Cierra la ventana actual.  
+- <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd>: Reinicia la configuración de bspwm.  
+- <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>: Cierra la sesión.  
+- <kbd>Windows</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Navega entre las ventanas en el espacio de trabajo actual.  
+- <kbd>Windows</kbd> + <kbd>D</kbd>: Abre Rofi. Pulsa <kbd>Esc</kbd> para salir.  
+- <kbd>Windows</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd>: Cambia al espacio de trabajo correspondiente.  
+- <kbd>Windows</kbd> + <kbd>T</kbd>: Cambia la ventana actual al modo mosaico.  
+- <kbd>Windows</kbd> + <kbd>M</kbd>: Alterna la ventana actual al modo "completo" (no ocupa la polybar). Pulsa las mismas teclas para volver al modo mosaico.  
+- <kbd>Windows</kbd> + <kbd>F</kbd>: Cambia la ventana actual al modo de pantalla completa (ocupa toda la pantalla, incluida la polybar).  
+- <kbd>Windows</kbd> + <kbd>S</kbd>: Cambia la ventana actual al modo flotante.  
+- <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd>: Mueve la ventana actual a otro espacio de trabajo.  
+- <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Redimensiona la ventana actual (solo funciona en modo flotante).  
+- <kbd>Windows</kbd> + <kbd>Ctrl</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Cambia la posición de la ventana actual (solo funciona en modo flotante).  
+- <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>: Abre Firefox.  
+- <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>: Abre Burpsuite.  
+- <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>: Bloquea la pantalla.  
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>⬆⬇</kbd>: Sube/baja el volumen.  
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>: Activa/desactiva el silencio.  
+- <kbd>Windows</kbd> + <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Muestra una preselección y luego abre una ventana (kitty, Firefox, gestor de archivos, etc.).  
+  - <kbd>Windows</kbd> + <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Espacio</kbd>: Deshace la preselección.  
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>: Abre una subventana en la ventana actual.  
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Z</kbd>: Amplía la subventana actual.  
+- <kbd>Ctrl</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Navega entre las subventanas en la ventana actual.  
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>: Redimensiona la subventana actual. Luego usa:  
+   - <kbd>W</kbd> para 'Más ancho'.  
+   - <kbd>N</kbd> para 'Más estrecho'.  
+   - <kbd>T</kbd> para 'Más alto'.  
+   - <kbd>S</kbd> para 'Más bajo'.  
+   - <kbd>R</kbd> para 'Restablecer'.  
+   - <kbd>Esc</kbd> para salir del modo de redimensionado.  
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>: Alterna la disposición de las subventanas.  
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>: Cierra la subventana o pestaña actual.  
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>: Abre una pestaña en la ventana actual.  
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>: Renombra el título de la pestaña actual.  
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>(⬅➡)</kbd>: Navega entre pestañas actuales.  
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>: Copia al portapapeles.  
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>: Pega desde el portapapeles.  
+- <kbd>F1</kbd>: Copia al buffer A.  
+- <kbd>F2</kbd>: Pega desde el buffer A.  
+- <kbd>F3</kbd>: Copia al buffer B.  
+- <kbd>F4</kbd>: Pega desde el buffer B.  
