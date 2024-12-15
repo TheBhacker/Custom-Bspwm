@@ -34,7 +34,7 @@ function banner() {
     sleep 0.05
     echo -e "/ /_/ // /_/ // /_ / /_/ /     _  /_/ /(__  )__  /_/ /_ |/ |/ /_  / / / / /"
     sleep 0.05
-    echo -e "\\__,_/ \\__,_/ \\__/ \\____/      /_.___//____/ _  .___/____/|__/ /_/ /_/ /_/    ${endColour}${yellowColour}(${endColour}${grayColour}By ${endColour}${purpleColour}theBhacker/n3tphant0m${endColour}${yellowColour})${endColour}${turquoiseColour}"
+    echo -e "\\__,_/ \\__,_/ \\__/ \\____/      /_.___//____/ _  .___/____/|__/ /_/ /_/ /_/    ${endColour}${yellowColour}(${endColour}${grayColour}Creado por ${endColour}${purpleColour}theBhacker/n3tphant0m${endColour}${yellowColour})${endColour}${turquoiseColour}"
     sleep 0.05
     echo -e "                                             /_/${endColour}"
 }
