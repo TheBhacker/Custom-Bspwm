@@ -90,3 +90,7 @@ chmod +x setup.sh
 - <kbd>F2</kbd>: Pega desde el buffer A.  
 - <kbd>F3</kbd>: Copia al buffer B.  
 - <kbd>F4</kbd>: Pega desde el buffer B.  
+
+# Créditos
+
+Basado en el entorno profesional de s4vitar fusionado con el repositorio de r1vs3c
