@@ -224,3 +224,6 @@ function rmk(){
 	shred -zun 10 -v $1
 }
 
+#Colores de terminal
+
+(wal -n -i ~/Wallpapers/satoru.jpg &>/dev/null & )
