@@ -49,7 +49,7 @@ else
 	sleep 1
 	echo -e "\n\n${blueColour}[*] Instalando paquetes necesarios para el entorno...\n${endColour}"
 	sleep 2
-	sudo apt install -y kitty rofi feh xclip ranger i3lock-fancy scrot scrub wmname imagemagick cmatrix htop neofetch python3-pip procps tty-clock fzf lsd bat pamixer flameshot
+	sudo apt install -y kitty rofi feh xclip ranger i3lock-fancy scrot scrub wmname imagemagick cmatrix htop neofetch python3-pip procps tty-clock fzf lsd bat pamixer flameshot pipx
 	if [ $? != 0 ] && [ $? != 130 ]; then
 		echo -e "\n${redColour}[-] Fallo instalando algunos paquetes!\n${endColour}"
 		exit 1
@@ -169,6 +169,7 @@ else
 
 	echo -e "\n${purpleColour}[*] Instalando Oh My Zsh y Powerlevel10k para el usuario $user...\n${endColour}"
 	sleep 2
+ 	pipx install pywal
 	sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
 	git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 	if [ $? != 0 ] && [ $? != 130 ]; then
