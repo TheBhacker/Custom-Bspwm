@@ -16,17 +16,30 @@ Este repositorio contiene un script y configuraciones personalizadas para config
 - Acceso a internet para descargar dependencias
 
 ## Instalación
-1. Sigue los siguientes comandos:
-   
-   ```bash
-   
-   git clone https://github.com/theBhacker/Custom-Bspwm.git
-   cd kali-bspwm-setup
-   
-   chmod +x setup.sh
-   
-   ./setup.sh
-   ```
+
+1. Actualizar paquetes
+
+```shell
+sudo apt update
+sudo apt upgrade -y
+```
+2. Clona el repositorio y accede a él
+
+```shell
+git clone https://github.com/theBhacker/Custom-Bspwm.git
+cd Custom-Bspwm
+```
+3. Damos permisos al script
+
+```shell
+chmod +x setup.sh
+```
+
+4. Ejecutamos el scirpt
+
+```shell
+./setup.sh
+```
    ## Preview del entorno
    ![preview1](/Preview/preview1.png "preview1")
    ![preview2](/Preview/preview2.png "preview2")
