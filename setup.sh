@@ -26,18 +26,25 @@ function ctrl_c(){
 
 
 function banner() {
-    echo -e "\\n${turquoiseColour}              _____            ______"
+    echo -e "\n${turquoiseColour}   █████    █████               ███████████  █████                         █████                         "
     sleep 0.05
-    echo -e "______ ____  ___  /______      ___  /___________________      ________ ___"
+    echo -e "   ░░███    ░░███               ░░███░░░░░███░░███                         ░░███                          "
     sleep 0.05
-    echo -e "_  __ \\`/  / / /  __/  __ \\     __  __ \\_  ___/__  __ \\_ | /| / /_  __ \\`__ \\"
+    echo -e "   ███████   ░███████    ██████  ░███    ░███ ░███████    ██████    ██████  ░███ █████  ██████  ████████ "
     sleep 0.05
-    echo -e "/ /_/ // /_/ // /_ / /_/ /     _  /_/ /(__  )__  /_/ /_ |/ |/ /_  / / / / /"
+    echo -e "  ░░░███░    ░███░░███  ███░░███ ░██████████  ░███░░███  ░░░░░███  ███░░███ ░███░░███  ███░░███░░███░░███"
     sleep 0.05
-    echo -e "\\__,_/ \\__,_/ \\__/ \\____/      /_.___//____/ _  .___/____/|__/ /_/ /_/ /_/    ${endColour}${yellowColour}(${endColour}${grayColour}Creado por ${endColour}${purpleColour}theBhacker/n3tphant0m${endColour}${yellowColour})${endColour}${turquoiseColour}"
+    echo -e "    ░███     ░███ ░███ ░███████  ░███░░░░░███ ░███ ░███   ███████ ░███ ░░░  ░██████░  ░███████  ░███ ░░░ "
     sleep 0.05
-    echo -e "                                             /_/${endColour}"
+    echo -e "    ░███ ███ ░███ ░███ ░███░░░   ░███    ░███ ░███ ░███  ███░░███ ░███  ███ ░███░░███ ░███░░░   ░███     "
+    sleep 0.05
+    echo -e "    ░░█████  ████ █████░░██████  ███████████  ████ █████░░████████░░██████  ████ █████░░██████  █████    "
+    sleep 0.05
+    echo -e "     ░░░░░  ░░░░ ░░░░░  ░░░░░░  ░░░░░░░░░░░  ░░░░ ░░░░░  ░░░░░░░░  ░░░░░░  ░░░░ ░░░░░  ░░░░░░  ░░░░░     "
+    sleep 0.05
+    echo -e "                                                                                                        ${endColour}${yellowColour}(${endColour}${grayColour}Creado por ${endColour}${purpleColour}theBhacker/n3tphant0m${endColour}${yellowColour})${endColour}${turquoiseColour}" 
 }
+
 
 
 if [ "$user" == "root" ]; then
