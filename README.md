@@ -46,9 +46,8 @@ chmod +x setup.sh
    ![preview1](/Preview/preview1.png "preview1")
 
 
-   #Atajos de Teclado ⌨️
 
-## Atajos de Teclado en Español
+## Atajos de Teclado en Español ⌨️🇪🇸
 - <kbd>Windows</kbd> + <kbd>Enter</kbd>: Abre una ventana del emulador de terminal (kitty).  
 - <kbd>Windows</kbd> + <kbd>W</kbd>: Cierra la ventana actual.  
 - <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>: Reinicia la configuración de bspwm.  
