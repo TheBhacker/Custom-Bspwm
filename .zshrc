@@ -186,13 +186,13 @@ function extractPorts(){
 function settarget(){
     ip_address=$1
     machine_name=$2
-    echo "$ip_address $machine_name" > /home/d14bl0/.config/bin/target
+    echo "$ip_address $machine_name" > $HOME/.config/bin/target
 }
 
 # Cleartarget
 
 function cleartarget(){
-    echo '' > /home/d14bl0/.config/bin/target
+    echo '' > $HOME/.config/bin/target
 }
 
 # fzf improvement
