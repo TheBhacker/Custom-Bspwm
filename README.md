@@ -42,8 +42,8 @@ chmod +x setup.sh
 ```
    ## Preview del entorno
  
-   ![preview2](/Preview/preview2.png "preview2")
-   ![preview1](/Preview/preview1.png "preview1")
+   ![preview2](/Preview/entorno1.png "preview2")
+   ![preview1](/Preview/entorno.png "preview1")
 
 
 
