@@ -225,4 +225,4 @@ function rmk(){
 
 #Colores de terminal
 
-(wal -n -i ~/Wallpapers/satoru.jpg &>/dev/null & )
+#(wal -n -i ~/Wallpapers/exemple.png &>/dev/null & )
