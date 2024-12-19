@@ -25,8 +25,8 @@ bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
-#wal -n -i /home/user/Wallpapers/satoru.jpg &
-feh --bg-fill ~/Wallpapers/satoru.jpg &
+#wal -n -i /home/user/Wallpapers/lofi-linux.png &
+feh --bg-fill ~/Wallpapers/lofi-linux.png &
 ~/.config/polybar/./launch.sh &
 
 pgrep -x picom > /dev/null || picom --config ~/.config/picom/picom.conf &
