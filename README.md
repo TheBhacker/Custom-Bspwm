@@ -94,4 +94,4 @@ Basado en el entorno profesional de s4vitar fusionado con el repositorio de r1vs
 
 # Ayuda
 
-En caso de que estes muy perdido en el entorno o te salte alguna duda acude a la [wiki](https://github.com/theBhacker/Custom-Bspwm/wiki)!
+En caso de que estes muy perdido en el entorno o te surja alguna duda acude a la [wiki](https://github.com/theBhacker/Custom-Bspwm/wiki)!
