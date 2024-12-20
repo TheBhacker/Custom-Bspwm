@@ -91,3 +91,7 @@ chmod +x custom.sh
 # Créditos
 
 Basado en el entorno profesional de s4vitar fusionado con el repositorio de r1vs3c [repo](https://github.com/r1vs3c/auto-bspwm).
+
+# Ayuda
+
+En caso de que estes muy perdido en el entorno o te salte alguna duda acude a la [wiki](https://github.com/theBhacker/Custom-Bspwm/wiki)!
