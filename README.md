@@ -32,13 +32,13 @@ cd Custom-Bspwm
 3. Damos permisos al script
 
 ```shell
-chmod +x setup.sh
+chmod +x custom.sh
 ```
 
 4. Ejecutamos el scirpt
 
 ```shell
-./setup.sh
+./custom.sh
 ```
    ## Preview del entorno
    ![GIF](/Preview/bspwm.gif "bspwm")
