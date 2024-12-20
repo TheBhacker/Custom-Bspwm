@@ -240,6 +240,7 @@ else
 	sudo ln -sfv ~/.p10k.zsh /root/.p10k.zsh
 	mkdir -p ~/.local/share/rofi/themes/
 	cp -r $dir/config/rofi/themes/* ~/.local/share/rofi/themes
+ 	sudo ln -sfv ~/.config/neofetch /root/.config/neofetch
 	echo -e "\n${greenColour}[+] Finalizado\n${endColour}"
 	sleep 1.5
 
