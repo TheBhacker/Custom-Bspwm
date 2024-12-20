@@ -42,10 +42,6 @@ chmod +x setup.sh
 ```
    ## Preview del entorno
    ![GIF](/Preview/bspwm.gif "bspwm")
-   ![preview2](/Preview/entono1.png "preview2")
-   ![preview1](/Preview/entorno.png "preview1")
-   
-
 
 
 ## Atajos de Teclado en Español ⌨️ 🇪🇸
