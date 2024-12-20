@@ -42,7 +42,7 @@ function banner() {
     sleep 0.05
     echo -e "     ░░░░░  ░░░░ ░░░░░  ░░░░░░  ░░░░░░░░░░░  ░░░░ ░░░░░  ░░░░░░░░  ░░░░░░  ░░░░ ░░░░░  ░░░░░░  ░░░░░     "
     sleep 0.05
-    echo -e "                                                                                                        ${endColour}${yellowColour}(${endColour}${grayColour}Creado por ${endColour}${purpleColour}theBhacker/n3tphant0m${endColour}${yellowColour})${endColour}${turquoiseColour}" 
+    echo -e "                                                                                                        ${endColour}${yellowColour}(${endColour}${grayColour}Creado por ${endColour}${purpleColour}theBhacker/n3tshad0w${endColour}${yellowColour})${endColour}${turquoiseColour}" 
 }
 
 
