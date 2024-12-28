@@ -56,7 +56,7 @@ else
 	sleep 1
 	echo -e "\n\n${blueColour}[*] Instalando paquetes necesarios para el entorno...\n${endColour}"
 	sleep 2
-	sudo apt install -y kitty rofi feh xclip ranger i3lock-fancy scrot scrub wmname imagemagick cmatrix htop neofetch python3-pip procps tty-clock fzf lsd bat pamixer flameshot pipx neofetch
+	sudo apt install -y kitty rofi feh xclip ranger i3lock-fancy scrot scrub wmname imagemagick cmatrix htop neofetch python3-pip procps tty-clock fzf lsd bat pamixer flameshot pipx
 	if [ $? != 0 ] && [ $? != 130 ]; then
 		echo -e "\n${redColour}[-] Fallo instalando algunos paquetes!\n${endColour}"
 		exit 1
@@ -150,7 +150,7 @@ else
 		echo -e "\n${redColour}[-] Fallo instalando polybar!\n${endColour}"
 		exit 1
 	else
-		echo -e "\n${greenColour}[+] Done\n${endColour}"
+		echo -e "\n${greenColour}[+] Finalizado\n${endColour}"
 		sleep 1.5
 	fi
 
@@ -244,9 +244,11 @@ else
 	echo -e "\n${greenColour}[+] Finalizado\n${endColour}"
 	sleep 1.5
 
-	echo -e "\n${purpleColour}[*] Configurando scripts...\n${endColour}"
+	echo -e "\n${purpleColour}[*] Descargando docker y docker-compose...\n${endColour}"
 	sleep 2
-	sudo cp -v $dir/scripts/whichSystem.py /usr/local/bin/
+ 	sudo apt install docker.io
+	sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-linux-x86_64" -o /usr/local/bin/docker-compose
+ 	sudo chmod +x /usr/local/bin/docker-compose
 	echo -e "\n${greenColour}[+] Finalizado\n${endColour}"
 	sleep 1.5
 
@@ -257,7 +259,6 @@ else
 	sudo chmod +x /usr/local/bin/whichSystem.py
 	sudo chmod +x /usr/local/share/zsh/site-functions/_bspc
 	sudo chown root:root /usr/local/share/zsh/site-functions/_bspc
-	
 	cd ..
 	echo -e "\n${greenColour}[+] Finalizado\n${endColour}"
 	sleep 1.5
@@ -285,5 +286,5 @@ else
 		else
 			echo -e "\n${redColour}[!] Respuesta inválida, pruebe otra vez.\n${endColour}"
 		fi
-	done
+	Finalizado
 fi
