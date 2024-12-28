@@ -14,6 +14,7 @@ while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
 polybar log -c ~/.config/polybar/current.ini &
 polybar ethernet_bar -c ~/.config/polybar/current.ini &
 polybar vpn_bar -c ~/.config/polybar/current.ini &
+polybar docker_bar -c ~/.config/polybar/current.ini &
 
 ## Right bar
 polybar top -c ~/.config/polybar/current.ini &
