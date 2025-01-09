@@ -286,5 +286,5 @@ else
 		else
 			echo -e "\n${redColour}[!] Respuesta inválida, pruebe otra vez.\n${endColour}"
 		fi
-	Finalizado
+	Done
 fi
