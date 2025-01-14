@@ -166,7 +166,7 @@ alias catnl='/usr/bin/batcat --paging=never'
 
 # Functions
 function mkt(){
-	mkdir {nmap,content,exploits,scripts}
+	mkdir {nmap,content,exploits}
 }
 
 # Extract nmap information
