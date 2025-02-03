@@ -21,6 +21,7 @@ Este repositorio contiene un script y configuraciones personalizadas para config
 
 ```shell
 sudo apt update
+sudo apt install zsh git curl
 sudo apt upgrade -y
 ```
 2. Clona el repositorio y accede a él
