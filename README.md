@@ -42,7 +42,7 @@ chmod +x custom.sh
 ./custom.sh
 ```
    ## Preview del entorno
-   ![GIF](/Preview/bspwm.gif "bspwm")
+   ![PNG](/Preview/bspwm.png "bspwm")
 
 
 ## Atajos de Teclado en Español ⌨️ 🇪🇸
