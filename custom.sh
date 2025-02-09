@@ -221,8 +221,8 @@ else
 		mkdir ~/Wallpapers
 		cp -rv $dir/wallpapers/* ~/Wallpapers
 	fi
-	wal -nqi ~/Wallpapers/lofi-linux.png
-	sudo wal -nqi ~/Wallpapers/lofi-linux.png
+	wal -nqi ~/Wallpapers/kali-wallpaper.png
+	sudo wal -nqi ~/Wallpapers/kali-wallpaper.png
 	echo -e "\n${greenColour}[+] Finalizado\n${endColour}"
 	sleep 1.5
 
