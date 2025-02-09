@@ -24,7 +24,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="powerlevel10k/powerlevel10k"
-export PATH="$PATH:/opt/nvim-linux64/bin/$HOME/.local/bin"
+export PATH="$PATH:/opt/nvim-linux64/bin/:$HOME/.local/bin"
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
@@ -166,7 +166,7 @@ alias catnl='/usr/bin/batcat --paging=never'
 
 # Functions
 function mkt(){
-	mkdir {nmap,content,exploits}
+	mkdir {nmap,content,exploits,scripts}
 }
 
 # Extract nmap information
