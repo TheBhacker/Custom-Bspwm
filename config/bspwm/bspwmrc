@@ -43,8 +43,8 @@ bspc rule -a Screenkey manage=off
 #  ╠═╣║ ║ ║ ║ ║╚═╗ ║ ╠═╣╠╦╝ ║
 #  ╩ ╩╚═╝ ╩ ╚═╝╚═╝ ╩ ╩ ╩╩╚═ ╩
 
-#wal -n -i /home/user/Wallpapers/kali-wallpaper.png &
-feh --bg-fill ~/Wallpapers/kali-wallpaper.png &
+#wal -n -i /home/user/Wallpapers/fondo-lofi.png &
+feh --bg-fill ~/Wallpapers/fondo-lofi.png &
 ~/.config/polybar/./launch.sh &
 
 pgrep -x picom > /dev/null || picom --config ~/.config/picom/picom.conf &
