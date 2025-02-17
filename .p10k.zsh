@@ -188,8 +188,8 @@
 
   #################################[ os_icon: os identifier ]##################################
   # OS identifier color.
-  typeset -g POWERLEVEL9K_OS_ICON_FOREGROUND=0
-  typeset -g POWERLEVEL9K_OS_ICON_BACKGROUND=255
+  typeset -g POWERLEVEL9K_OS_ICON_FOREGROUND=7
+  typeset -g POWERLEVEL9K_OS_ICON_BACKGROUND=56
   # Custom icon.
   typeset -g POWERLEVEL9K_OS_ICON_CONTENT_EXPANSION='󰆨'
 
@@ -218,9 +218,9 @@
 
   ##################################[ dir: current directory ]##################################
   # Current directory background color.
-  typeset -g POWERLEVEL9K_DIR_BACKGROUND=27
+  typeset -g POWERLEVEL9K_DIR_BACKGROUND=39
   # Default current directory foreground color.
-  typeset -g POWERLEVEL9K_DIR_FOREGROUND=255
+  typeset -g POWERLEVEL9K_DIR_FOREGROUND=7
   # If directory is too long, shorten some of its segments to the shortest possible unique
   # prefix. The shortened directory can be tab-completed to the original.
   typeset -g POWERLEVEL9K_SHORTEN_STRATEGY=truncate_to_unique
@@ -968,8 +968,8 @@
 
   ##################################[ context: user@hostname ]##################################
   # Context color when running with privileges.
-  typeset -g POWERLEVEL9K_CONTEXT_ROOT_FOREGROUND=7
-  typeset -g POWERLEVEL9K_CONTEXT_ROOT_BACKGROUND=196
+  typeset -g POWERLEVEL9K_CONTEXT_ROOT_FOREGROUND=0
+  typeset -g POWERLEVEL9K_CONTEXT_ROOT_BACKGROUND=183
   # Context color in SSH without privileges.
   typeset -g POWERLEVEL9K_CONTEXT_{REMOTE,REMOTE_SUDO}_FOREGROUND=3
   typeset -g POWERLEVEL9K_CONTEXT_{REMOTE,REMOTE_SUDO}_BACKGROUND=0
@@ -978,7 +978,7 @@
   typeset -g POWERLEVEL9K_CONTEXT_BACKGROUND=0
 
   # Context format when running with privileges: user@hostname.
-  typeset -g POWERLEVEL9K_CONTEXT_ROOT_TEMPLATE='󰈸'
+  typeset -g POWERLEVEL9K_CONTEXT_ROOT_TEMPLATE='󰊠'
   # Context format when in SSH without privileges: user@hostname.
   typeset -g POWERLEVEL9K_CONTEXT_{REMOTE,REMOTE_SUDO}_TEMPLATE='%n@%m'
   # Default context format (no privileges, no SSH): user@hostname.
@@ -995,8 +995,8 @@
 
   ###[ virtualenv: python virtual environment (https://docs.python.org/3/library/venv.html) ]###
   # Python virtual environment color.
-  typeset -g POWERLEVEL9K_VIRTUALENV_FOREGROUND=196
-  typeset -g POWERLEVEL9K_VIRTUALENV_BACKGROUND=0
+  typeset -g POWERLEVEL9K_VIRTUALENV_FOREGROUND=0
+  typeset -g POWERLEVEL9K_VIRTUALENV_BACKGROUND=225
   # Don't show Python version next to the virtual environment name.
   typeset -g POWERLEVEL9K_VIRTUALENV_SHOW_PYTHON_VERSION=false
   # If set to "false", won't show virtualenv if pyenv is already shown.
