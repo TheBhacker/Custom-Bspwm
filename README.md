@@ -90,30 +90,30 @@ chmod +x custom.sh
 - <kbd>F4</kbd>: Pega desde el buffer B.
 
 ## Shortcuts de la Zsh
-Alt + .: Insertar el argumento del comando anterior
-Ctrl + U: Eliminar toda la línea
-Alt + Supr: Eliminar una palabra
-Alt + (⬆⬅⬇➡): Desplazarse entre palabras
-Supr: Eliminar la letra a la derecha del cursor
-Backspace: Eliminar la letra a la izquierda del cursor
-Alt + Supr: Eliminar la palabra a la derecha del cursor
-Alt + Backspace: Eliminar la palabra la izquierda del cursor
-Home: Desplazamiento al inicio de la línea
-End: Desplazamiento al final de la línea
-Shift + Tab: Deshacer la última acción
-Page Up: Desplazarse hacia arriba en modo paginate
-Page Down: Desplazarse hacia abajo en modo paginate
-Ctrl + R: Mediante fzf nos autocompleta los archivos/directorios
-Ctrl + R: Mediante fzf podemos ejecutar comandos del histórico de la zsh
-Esc + Esc: Se activa el plugin sudo-zsh y nos añade sudo al principio del comando en la kitty
-setTarget: Mediante esta función en la zsh seteamos el target en la polybar
-clearTarget: Mediante esta función en la zsh limpiamos el target de la polybar
-mkt: Se crea una carpeta y dentro de ella varios directorios de trabajo
-clearHistory: Limpiar el historial de la zsh
-removeHistory: Eliminar el historial de la zsh
-extractPorts: Extrae los puertos de un archivo con formato -oG de nmap y los copia en la clipboard
-enableTouchpad: Habilitamos el touchpad del portátil
-disableTouchpad: Deshabilitamos el touchpad del portátil
+- <kbd>Alt</kbd> + <kbd>.</kbd>: Insertar el argumento del comando anterior  
+- <kbd>Ctrl</kbd> + <kbd>U</kbd>: Eliminar toda la línea  
+- <kbd>Alt</kbd> + <kbd>Supr</kbd>: Eliminar una palabra  
+- <kbd>Alt</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Desplazarse entre palabras  
+- <kbd>Supr</kbd>: Eliminar la letra a la derecha del cursor  
+- <kbd>Backspace</kbd>: Eliminar la letra a la izquierda del cursor  
+- <kbd>Alt</kbd> + <kbd>Supr</kbd>: Eliminar la palabra a la derecha del cursor  
+- <kbd>Alt</kbd> + <kbd>Backspace</kbd>: Eliminar la palabra la izquierda del cursor  
+- <kbd>Home</kbd>: Desplazamiento al inicio de la línea    
+- <kbd>End</kbd>: Desplazamiento al final de la línea    
+- <kbd>Shift</kbd> + <kbd>Tab</kbd>: Deshacer la última acción  
+- <kbd>Page Up</kbd>: Desplazarse hacia arriba en modo paginate  
+- <kbd>Page Down</kbd>: Desplazarse hacia abajo en modo paginate  
+- <kbd>Ctrl</kbd> + <kbd>R</kbd>: Mediante fzf nos autocompleta los archivos/directorios  
+- <kbd>Ctrl</kbd> + <kbd>R</kbd>: Mediante fzf podemos ejecutar comandos del histórico de la zsh  
+- <kbd>Esc</kbd> + <kbd>Esc</kbd>: Se activa el plugin sudo-zsh y nos añade sudo al principio del comando en la kitty  
+- <kbd>setTarget</kbd>: Mediante esta función en la zsh seteamos el target en la polybar  
+- <kbd>clearTarget</kbd>: Mediante esta función en la zsh limpiamos el target de la polybar  
+- <kbd>mkt</kbd>: Se crea una carpeta y dentro de ella varios directorios de trabajo  
+- <kbd>clearHistory</kbd>: Limpiar el historial de la zsh  
+- <kbd>removeHistory</kbd>: Eliminar el historial de la zsh  
+- <kbd>extractPorts</kbd>: Extrae los puertos de un archivo con formato -oG de nmap y los copia en la clipboard  
+- <kbd>enableTouchpad</kbd>: Habilitamos el touchpad del portátil  
+- <kbd>disableTouchpad</kbd>: Deshabilitamos el touchpad del portátil  
 
 # Ayuda
 
