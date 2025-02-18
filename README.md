@@ -14,6 +14,7 @@ Este repositorio contiene un script y configuraciones personalizadas para config
 - Kali Linux (o Debian-based)
 - Git instalado
 - Acceso a internet para descargar dependencias
+- Tener zsh como shell predeterminada o almenos tener .zshrc.
 
 ## Instalación
 
@@ -21,7 +22,7 @@ Este repositorio contiene un script y configuraciones personalizadas para config
 
 ```shell
 sudo apt update
-sudo apt install zsh git curl
+sudo apt install git curl
 sudo apt upgrade -y
 ```
 2. Clona el repositorio y accede a él
