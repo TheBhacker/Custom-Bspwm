@@ -1,0 +1,145 @@
+(Presiona ESC para cerrar esta ventana)
+
+## Bspwm
+Windows + Enter: Abre una ventana del emulador de terminal (kitty).
+Windows + W: Cierra la ventana actual.
+Windows + Shift + R: Reinicia la configuración
+Windows + Alt + Q: Cierra la sesión.
+Windows + (⬆⬅⬇➡): Navega entre las ventanas en el espacio de trabajo actual.
+Windows + D: Abre Rofi
+Windows + (1,2,3,4,5,6,7,8,9,0): Cambia al espacio de trabajo correspondiente.
+Windows + T: Cambia la ventana actual al modo mosaico.
+Windows + M: Alterna la ventana actual al modo "completo" (no ocupa la polybar). Pulsa las mismas teclas para volver al modo mosaico.
+Windows + F: Cambia la ventana actual al modo de pantalla completa (ocupa toda la pantalla, incluida la polybar).
+Windows + S: Cambia la ventana actual al modo flotante.
+Windows + Shift + (1,2,3,4,5,6,7,8,9,0): Mueve la ventana actual a otro espacio de trabajo.
+Windows + Alt + (⬆⬅⬇➡): Redimensiona la ventana actual (solo funciona en modo flotante).
+Windows + Ctrl + (⬆⬅⬇➡): Cambia la posición de la ventana actual (solo funciona en modo flotante).
+
+
+
+## Aplicaciones
+Windows + Shift + F: Abre Firefox.
+Windows + Shift + B: Abre Burpsuite.
+Ctrl + Alt + L: Bloquea la pantalla.
+Ctrl + Shift + ⬆⬇: Sube/baja volum.
+Ctrl + Shift + M: ON/OFF el silencio.
+Windows + Ctrl + Alt + (⬆⬅⬇➡): Ver presel.
+Windows+Ctrl+ Alt + Espacio: Deshace presel.
+Ctrl + Shift + Enter: Abre una subventana en la ventana actual.
+Ctrl + Shift + Z: Amplía la subventana actual.
+Ctrl + (⬆⬅⬇➡): Navega entre las subventanas en la ventana actual.
+Ctrl + Shift + R: Redimensiona la subventana actual. Luego usa:
+-W para 'Más ancho'.
+-N para 'Más estrecho'.
+-T para 'Más alto'.
+-S para 'Más bajo'.
+-R para 'Restablecer'.
+-Esc para salir del modo de redimensionado.
+Ctrl + Shift + L: Alterna la disposición de las subventanas.
+Ctrl + Shift + W: Cierra la subventana o pestaña actual.
+Ctrl + Shift + T: Abre una pestaña en la ventana actual.
+Ctrl + Shift + Alt + T: Renombra el título de la pestaña actual.
+Ctrl + Shift + (⬅➡): Navega entre pestañas actuales.
+Ctrl + Shift + C: Copia al portapapeles.
+Ctrl + Shift + V: Pega desde el portapapeles.
+F1: Copia al buffer A.
+F2: Pega desde el buffer A.
+F3: Copia al buffer B.
+F4: Pega desde el buffer B.
+
+## Navegación
+- Windows + (⬆⬅⬇➡): Navega entre las ventanas en el espacio de trabajo actual.
+- Windows + D: Abre Rofi. Pulsa Esc para salir.
+- Windows + (1,2,3,4,5,6,7,8,9,0): Cambia al espacio de trabajo correspondiente.
+- Windows + Shift + (1,2,3,4,5,6,7,8,9,0): Mueve la ventana actual a otro espacio de trabajo.
+- Windows + Alt + (⬆⬅⬇➡): Redimensiona la ventana actual (solo funciona en modo flotante).
+- Windows + Ctrl + (⬆⬅⬇➡): Cambia la posición de la ventana actual (solo funciona en modo flotante).
+
+
+
+## Gestión de Ventanas
+- Windows + Enter: Abre una ventana del emulador de terminal (kitty).
+- Windows + W: Cierra la ventana actual.
+- Windows + T: Cambia la ventana actual al modo mosaico.
+- Windows + M: Alterna la ventana actual al modo "completo" (no ocupa la polybar). Pulsa las mismas teclas para volver al modo mosaico.
+- Windows + F: Cambia la ventana actual al modo de pantalla completa (ocupa toda la pantalla, incluida la polybar).
+- Windows + S: Cambia la ventana actual al modo flotante.
+- Windows + Shift + (1,2,3,4,5,6,7,8,9,0): Mueve la ventana actual a otro espacio de trabajo.
+- Windows + Alt + (⬆⬅⬇➡): Redimensiona la ventana actual (solo funciona en modo flotante).
+- Windows + Ctrl + (⬆⬅⬇➡): Cambia la posición de la ventana actual (solo funciona en modo flotante).
+- Ctrl + Shift + R: Redimensiona la subventana actual. Luego usa:
+  - W para 'Más ancho'.
+  - N para 'Más estrecho'.
+  - T para 'Más alto'.
+  - S para 'Más bajo'.
+  - R para 'Restablecer'.
+  - Esc para salir del modo de redimensionado.
+- Ctrl + Shift + L: Alterna la disposición de las subventanas.
+- Ctrl + Shift + W: Cierra la subventana o pestaña actual.
+- Ctrl + Shift + T: Abre una pestaña en la ventana actual.
+- Ctrl + Shift + Alt + T: Renombra el título de la pestaña actual.
+- Ctrl + Shift + (⬅➡): Navega entre pestañas actuales.
+- Ctrl + Shift + C: Copia al portapapeles.
+- Ctrl + Shift + V: Pega desde el portapapeles.
+- F1: Copia al buffer A.
+- F2: Pega desde el buffer A.
+- F3: Copia al buffer B.
+- F4: Pega desde el buffer B.
+
+
+## Sistema
+- Ctrl + Alt + L: Bloquea la pantalla.
+- Ctrl + Shift + ⬆⬇: Sube/baja el volumen.
+- Ctrl + Shift + M: Activa/desactiva el silencio.
+- Windows + Ctrl + Alt + (⬆⬅⬇➡): Muestra una preselección y luego abre una ventana (kitty, Firefox, gestor de archivos, etc.).
+- Windows + Ctrl + Alt + Espacio: Deshace la preselección.
+- Ctrl + Shift + Enter: Abre una subventana en la ventana actual.
+- Ctrl + Shift + Z: Amplía la subventana actual.
+- Ctrl + (⬆⬅⬇➡): Navega entre las subventanas en la ventana actual.
+
+## Subventanas
+- Ctrl + Shift + R: Redimensiona la subventana actual. Luego usa:
+  - W para 'Más ancho'.
+  - N para 'Más estrecho'.
+  - T para 'Más alto'.
+  - S para 'Más bajo'.
+  - R para 'Restablecer'.
+  - Esc para salir del modo de redimensionado.
+- Ctrl + Shift + L: Alterna la disposición de las subventanas.
+- Ctrl + Shift + W: Cierra la subventana o pestaña actual.
+- Ctrl + Shift + T: Abre una pestaña en la ventana actual.
+- Ctrl + Shift + Alt + T: Renombra el título de la pestaña actual.
+- Ctrl + Shift + (⬅➡): Navega entre pestañas actuales.
+- Ctrl + Shift + C: Copia al portapapeles.
+- Ctrl + Shift + V: Pega desde el portapapeles.
+- F1: Copia al buffer A.
+- F2: Pega desde el buffer A.
+- F3: Copia al buffer B.
+- F4: Pega desde el buffer B.
+
+## Zsh Shortcuts
+- Alt + .: Insertar el argumento del comando anterior
+- Ctrl + U: Eliminar toda la línea
+- Alt + Supr: Eliminar una palabra
+- Alt + (⬆⬅⬇➡): Desplazarse entre palabras
+- Supr: Eliminar la letra a la derecha del cursor
+- Backspace: Eliminar la letra a la izquierda del cursor
+- Alt + Supr: Eliminar la palabra a la derecha del cursor
+- Alt + Backspace: Eliminar la palabra a la izquierda del cursor
+- Home: Desplazamiento al inicio de la línea
+- End: Desplazamiento al final de la línea
+- Shift + Tab: Deshacer la última acción
+- Page Up: Desplazarse hacia arriba en modo paginate
+- Page Down: Desplazarse hacia abajo en modo paginate
+- Ctrl + R: Mediante fzf nos autocompleta los archivos/directorios
+- Ctrl + R: Mediante fzf podemos ejecutar comandos del histórico de la zsh
+- Esc + Esc: Se activa el plugin sudo-zsh y nos añade sudo al principio del comando en la kitty
+- setTarget: Mediante esta función en la zsh seteamos el target en la polybar
+- clearTarget: Mediante esta función en la zsh limpiamos el target de la polybar
+- mkt: Se crea una carpeta y dentro de ella varios directorios de trabajo
+- clearHistory: Limpiar el historial de la zsh
+- removeHistory: Eliminar el historial de la zsh
+- extractPorts: Extrae los puertos de un archivo con formato -oG de nmap y los copia en la clipboard
+- enableTouchpad: Habilitamos el touchpad del portátil
+- disableTouchpad: Deshabilitamos el touchpad del portátil
