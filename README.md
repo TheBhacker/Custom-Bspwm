@@ -21,10 +21,10 @@ Este repositorio contiene un script y configuraciones personalizadas para config
 | Compositor | picom             |
 | Launcher   | rofi              |
 
-<h2></h2><br>
-
+<h2></h2>
 ## Preview del entorno
 ![PNG](/Preview/preview1.png "bspwm")
+<br>
 
 <details>
 <summary><strong>I N S T A L L A T I O N</strong></summary>
@@ -56,6 +56,8 @@ chmod +x custom.sh
 ./custom.sh
 ```
 </details>
+
+<br>
 
 <details>
 <summary><strong>K E Y B I N D S</strong></summary>
@@ -132,6 +134,8 @@ chmod +x custom.sh
 
 </details>
 
+<br>
+
 <details>
 <summary><strong>H E L P</strong></summary>
 
@@ -141,6 +145,7 @@ En caso de que estes muy perdido en el entorno o te surja alguna duda acude a la
 
 </details>
 
+<br>
 
 **Créditos**
 
