@@ -132,11 +132,18 @@ chmod +x custom.sh
 
 </details>
 
+<details>
+<summary><strong>H E L P</strong></summary>
+
 # Ayuda
 
-En caso de que estes muy perdido en el entorno o te surja alguna duda acude a la [wiki](https://github.com/theBhacker/Custom-Bspwm/wiki)!
+En caso de que estes muy perdido en el entorno o te surja alguna duda acude a la [wiki](https://github.com/theBhacker/Custom-Bspwm/wiki)! Hay una CheatSheet en desarrollo 😅
+
+</details>
 
 
-# Créditos
+**Créditos**
 
 Basado en el entorno profesional de s4vitar
+
+<img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=GPL-3.0&logoColor=eceff4&logo=github&colorA=061115&colorB=67AFC1"/>
