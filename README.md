@@ -150,7 +150,8 @@ chmod +x custom.sh
 
 # Ayuda
 
-En caso de que estes muy perdido en el entorno o te surja alguna duda acude a la [wiki](https://github.com/theBhacker/Custom-Bspwm/wiki)! Hay una CheatSheet en desarrollo 😅
+En caso de que estes muy perdido en el entorno o te surja alguna duda acude a la WIKI &ensp;[<kbd> <br> Wiki <br> </kbd>][((https://github.com/theBhacker/Custom-Bspwm/wiki))&ensp;!] 
+Hay un CheatSheet en desarrollo 😅
 
 </details>
 
