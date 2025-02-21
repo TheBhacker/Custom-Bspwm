@@ -9,7 +9,7 @@ Este repositorio contiene un script y configuraciones personalizadas para config
 - Tener zsh como shell predeterminada o almenos tener .zshrc.
 
 ## Características
-<h2></h2><br>
+<br>
 
 | Programs   | Using             |
 | ---------- | ----------------- |
@@ -22,8 +22,10 @@ Este repositorio contiene un script y configuraciones personalizadas para config
 | Launcher   | rofi              |
 
 <h2></h2>
+
 ## Preview del entorno
 ![PNG](/Preview/preview1.png "bspwm")
+
 <br>
 
 <details>
