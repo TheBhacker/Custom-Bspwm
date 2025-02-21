@@ -151,8 +151,10 @@ chmod +x custom.sh
 # Ayuda
 
 En caso de que estes muy perdido en el entorno o te surja alguna duda acude a la WIKI
-<div align = center>
-&ensp;[<kbd> <br> Wiki <br> </kbd>](https://github.com/theBhacker/Custom-Bspwm/wiki)&ensp;</div>
+<p align="center">
+  [**Wiki**](https://github.com/theBhacker/Custom-Bspwm/wiki)
+</p>
+
 <br>
 Hay un CheatSheet en desarrollo 😅
 
