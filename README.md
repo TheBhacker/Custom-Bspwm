@@ -2,11 +2,15 @@
 
 Este repositorio contiene un script y configuraciones personalizadas para configurar un entorno minimalista y funcional con **bspwm**, **sxhkd**, **zsh**, **picom**, y **polybar** en Kali Linux.
 
+<br>
+
 ## Requisitos
 - Kali Linux (o Debian-based)
 - Git instalado
 - Acceso a internet para descargar dependencias
 - Tener zsh como shell predeterminada o almenos tener .zshrc.
+
+<br>
 
 ## Características
 <br>
