@@ -2,20 +2,30 @@
 
 Este repositorio contiene un script y configuraciones personalizadas para configurar un entorno minimalista y funcional con **bspwm**, **sxhkd**, **zsh**, **picom**, y **polybar** en Kali Linux.
 
-## Características
-- **Gestor de ventanas:** bspwm
-- **Atajos de teclado:** sxhkd
-- **Terminal personalizada:** Kitty con temas específicos
-- **Shell avanzada:** Zsh con Powerlevel10k
-- **Compositor:** Picom para transparencias y sombras
-- **Fondos de pantalla:** Feh para el Wallpaper
-
 ## Requisitos
 - Kali Linux (o Debian-based)
 - Git instalado
 - Acceso a internet para descargar dependencias
 - Tener zsh como shell predeterminada o almenos tener .zshrc.
-- 
+
+## Características
+<h2></h2><br>
+
+| Programs   | Using             |
+| ---------- | ----------------- |
+| WM         | bspwm             |
+| OS         | kali linux        |
+| Terminal   | kitty             |
+| Shell      | zsh p10k powered  |
+| Editor     | neovim / vscode   |
+| Compositor | picom             |
+| Launcher   | rofi              |
+
+<h2></h2><br>
+
+## Preview del entorno
+![PNG](/Preview/preview1.png "bspwm")
+
 <details>
 <summary><strong>I N S T A L L A T I O N</strong></summary>
    
@@ -46,10 +56,6 @@ chmod +x custom.sh
 ./custom.sh
 ```
 </details>
-
-   ## Preview del entorno
-   ![PNG](/Preview/preview1.png "bspwm")
-
 
 <details>
 <summary><strong>K E Y B I N D S</strong></summary>
