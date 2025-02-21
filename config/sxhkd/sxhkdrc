@@ -2,6 +2,7 @@
 # wm independent hotkeys
 #
 
+
 # terminal emulator
 super + Return
 	/usr/bin/kitty
@@ -17,6 +18,8 @@ super + Escape
 #
 # bspwm hotkeys
 #
+super + c
+	/home/n3tshad0w/.config/bspwm/cheatsheet/show-cheatsheet.sh
 
 ctrl + shift + f
 	/usr/bin/flameshot gui
