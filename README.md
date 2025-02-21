@@ -21,9 +21,12 @@ Este repositorio contiene un script y configuraciones personalizadas para config
 | Compositor | picom             |
 | Launcher   | rofi              |
 
-<h2></h2>
+<br>
 
 ## Preview del entorno
+
+<br>
+
 ![PNG](/Preview/preview1.png "bspwm")
 
 <br>
