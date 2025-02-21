@@ -45,7 +45,9 @@ chmod +x custom.sh
    ## Preview del entorno
    ![PNG](/Preview/preview1.png "bspwm")
 
-
+<details>
+<summary><strong>K E Y B I N D S</strong></summary>
+   
 ## Atajos de Teclado en Español ⌨️ 🇪🇸
 - <kbd>Windows</kbd> + <kbd>Enter</kbd>: Abre una ventana del emulador de terminal (kitty).  
 - <kbd>Windows</kbd> + <kbd>W</kbd>: Cierra la ventana actual.  
@@ -115,6 +117,8 @@ chmod +x custom.sh
 - <kbd>extractPorts</kbd>: Extrae los puertos de un archivo con formato -oG de nmap y los copia en la clipboard  
 - <kbd>enableTouchpad</kbd>: Habilitamos el touchpad del portátil  
 - <kbd>disableTouchpad</kbd>: Deshabilitamos el touchpad del portátil  
+
+</details>
 
 # Ayuda
 
