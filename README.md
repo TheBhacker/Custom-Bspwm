@@ -15,8 +15,10 @@ Este repositorio contiene un script y configuraciones personalizadas para config
 - Git instalado
 - Acceso a internet para descargar dependencias
 - Tener zsh como shell predeterminada o almenos tener .zshrc.
+- 
 <details>
 <summary><strong>I N S T A L L A T I O N</strong></summary>
+   
 ## Instalación
 
 1. Actualizar paquetes
@@ -43,8 +45,11 @@ chmod +x custom.sh
 ```shell
 ./custom.sh
 ```
+</details>
+
    ## Preview del entorno
    ![PNG](/Preview/preview1.png "bspwm")
+
 
 <details>
 <summary><strong>K E Y B I N D S</strong></summary>
