@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="500" height="500" src="![image](https://github.com/user-attachments/assets/83200c25-3c90-4248-b8ec-81cd51391f86)"</img>
+<img width="500" height="500" src="/Preview/bspwm_logo-1000x1000.png</img>
    
 </div>
 
