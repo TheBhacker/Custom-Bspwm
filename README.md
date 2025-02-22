@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="500" height="500" src="/Preview/bspwm_logo-1000x1000.png</img>
+![PNG](/Preview/bspwm-logo.png "logo")
    
 </div>
 
