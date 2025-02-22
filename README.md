@@ -178,7 +178,7 @@ Hay un CheatSheet en desarrollo 😅
 
 <br>
 
-**Créditos**
+## Créditos
 
 Basado en el entorno profesional de s4vitar
 
