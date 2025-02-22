@@ -1,6 +1,10 @@
 <div align="center">
-<img width="500" height="500" src="![image](https://github.com/user-attachments/assets/83200c25-3c90-4248-b8ec-81cd51391f86)"
 
+<img width="500" height="500" src="![image](https://github.com/user-attachments/assets/83200c25-3c90-4248-b8ec-81cd51391f86)"</img>
+   
+</div>
+
+<div align="center">
 
 ### **ENTORNO CUSTOM DE BSPWM**
 > *Cusotm Linux(Debian based) enviromment from [bspwm](https://github.com/baskerville/bspwm) using [kitty](https://github.com/kovidgoyal/kitty) and [polybar](https://github.com/VaughnValle/blue-sky)*
