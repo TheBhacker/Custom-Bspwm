@@ -1,7 +1,7 @@
 /**
  *
- * Author : Aditya Shakya (adi1090x)
- * Github : @adi1090x
+ * Author : N3tShad0w
+ * Github : @theBhacker
  * 
  * Rofi Theme File
  * Rofi Version: 1.7.3
@@ -16,8 +16,8 @@ configuration {
 }
 
 /*****----- Global Properties -----*****/
-@import                          "shared/colors.rasi"
-@import                          "shared/fonts.rasi"
+@import                          "~/.config/bspwm/cheatsheet/colors.rasi"
+@import                          "~/.config/bspwm/cheatsheet/fonts.rasi"
 
 /*****----- Main Window -----*****/
 window {

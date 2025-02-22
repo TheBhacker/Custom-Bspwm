@@ -1,6 +1,6 @@
 (Presiona ESC para cerrar esta ventana)
 
-## Bspwm
+## Bspwm ##
 Windows + Enter: Abre una ventana del emulador de terminal (kitty).
 Windows + W: Cierra la ventana actual.
 Windows + Shift + R: Reinicia la configuración
@@ -18,7 +18,7 @@ Windows + Ctrl + (⬆⬅⬇➡): Cambia la posición de la ventana actual (solo 
 
 
 
-## Aplicaciones
+## Aplicaciones ##
 Windows + Shift + F: Abre Firefox.
 Windows + Shift + B: Abre Burpsuite.
 Ctrl + Alt + L: Bloquea la pantalla.
@@ -48,7 +48,7 @@ F2: Pega desde el buffer A.
 F3: Copia al buffer B.
 F4: Pega desde el buffer B.
 
-## Navegación
+## Navegación ##
 - Windows + (⬆⬅⬇➡): Navega entre las ventanas en el espacio de trabajo actual.
 - Windows + D: Abre Rofi. Pulsa Esc para salir.
 - Windows + (1,2,3,4,5,6,7,8,9,0): Cambia al espacio de trabajo correspondiente.
@@ -58,7 +58,7 @@ F4: Pega desde el buffer B.
 
 
 
-## Gestión de Ventanas
+## Gestión de Ventanas ##
 - Windows + Enter: Abre una ventana del emulador de terminal (kitty).
 - Windows + W: Cierra la ventana actual.
 - Windows + T: Cambia la ventana actual al modo mosaico.
@@ -88,7 +88,7 @@ F4: Pega desde el buffer B.
 - F4: Pega desde el buffer B.
 
 
-## Sistema
+## Sistema ##
 - Ctrl + Alt + L: Bloquea la pantalla.
 - Ctrl + Shift + ⬆⬇: Sube/baja el volumen.
 - Ctrl + Shift + M: Activa/desactiva el silencio.
@@ -98,7 +98,7 @@ F4: Pega desde el buffer B.
 - Ctrl + Shift + Z: Amplía la subventana actual.
 - Ctrl + (⬆⬅⬇➡): Navega entre las subventanas en la ventana actual.
 
-## Subventanas
+## Subventanas ##
 - Ctrl + Shift + R: Redimensiona la subventana actual. Luego usa:
   - W para 'Más ancho'.
   - N para 'Más estrecho'.
@@ -118,7 +118,7 @@ F4: Pega desde el buffer B.
 - F3: Copia al buffer B.
 - F4: Pega desde el buffer B.
 
-## Zsh Shortcuts
+## Zsh Shortcuts ##
 - Alt + .: Insertar el argumento del comando anterior
 - Ctrl + U: Eliminar toda la línea
 - Alt + Supr: Eliminar una palabra

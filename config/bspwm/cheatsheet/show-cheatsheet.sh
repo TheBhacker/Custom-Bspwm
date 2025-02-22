@@ -11,3 +11,4 @@ fi
 
 # Read the cheatsheet file and display it with rofi
 cat "$CHEATSHEET_FILE" | rofi -dmenu -p "Bspwm Cheatsheet" -theme /home/n3tshad0w/.config/bspwm/cheatsheet/cheatsheet.rasi
+
