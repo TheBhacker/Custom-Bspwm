@@ -182,4 +182,6 @@ Hay un CheatSheet en desarrollo 😅
 
 Basado en el entorno profesional de s4vitar
 
+<br><br>
+
 <p align="center"><a href="https://github.com/TheBhacker/Custom-Bspwm?tab=GPL-3.0-1-ov-file#"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=GPL-3.0&logoColor=eceff4&logo=github&colorA=061115&colorB=67AFC1"/></a></p>
