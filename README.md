@@ -2,7 +2,7 @@
 
 
 ### **ENTORNO CUSTOM DE BSPWM**
-> *Cusotm Linux(Debian based) enviromment from [bspwm](https://github.com/baskerville/bspwm) using [kitty]([https://github.com/junegunn/fzf](https://github.com/kovidgoyal/kitty)) and [polybar](https://github.com/VaughnValle/blue-sky)*
+> *Cusotm Linux(Debian based) enviromment from [bspwm](https://github.com/baskerville/bspwm) using [kitty](https://github.com/kovidgoyal/kitty) and [polybar](https://github.com/VaughnValle/blue-sky)*
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/theBhacker/Custom-Bspwm)
 ![GitHub issues](https://img.shields.io/github/issues-raw/theBhacker/Custom-Bspwm)
@@ -12,6 +12,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/theBhacker/Custom-Bspwm?style=social)
 
 </div>
+
+<br>
+
 # Kali BSPWM Setup
 
 Este repositorio contiene un script y configuraciones personalizadas para configurar un entorno minimalista y funcional con **bspwm**, **sxhkd**, **zsh**, **picom**, y **polybar** en Kali Linux.
