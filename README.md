@@ -1,6 +1,6 @@
 <div align="center">
 
-![PNG](/Preview/bspwm-logo.png "logo")
+![PNG](/Preview/bspwm-logo1.png "logo")
    
 </div>
 
