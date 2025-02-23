@@ -15,4 +15,4 @@
 
 /* Import color-scheme from `colors` directory */
 
-@import "/home/n3tshad0w/.config/bspwm/cheatsheet/cheatsheet-colors.rasi"
+@import "~/.config/bspwm/cheatsheet/cheatsheet-colors.rasi"
