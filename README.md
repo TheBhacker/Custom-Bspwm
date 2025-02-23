@@ -166,13 +166,12 @@ chmod +x custom.sh
 
 # Ayuda
 
-En caso de que estes muy perdido en el entorno o te surja alguna duda acude a la WIKI
-<p align="center">
-  [**Wiki**](https://github.com/theBhacker/Custom-Bspwm/wiki)
-</p>
+En caso de que estes muy perdido en el entorno o te surja alguna duda acude a la  [**Wiki**](https://github.com/theBhacker/Custom-Bspwm/wiki)
+
+
 
 <br>
-Hay un CheatSheet en desarrollo 😅
+Hay un CheatSheet en desarrollo con el  <kbd>Super</kbd> + <kbd>C</kbd>
 
 </details>
 
