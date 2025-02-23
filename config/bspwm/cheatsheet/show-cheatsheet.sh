@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to the cheatsheet file
-CHEATSHEET_FILE="/home/n3tshad0w/.config/bspwm/cheatsheet/bspwm-cheatsheet.txt"
+CHEATSHEET_FILE="~/.config/bspwm/cheatsheet/bspwm-cheatsheet.txt"
 
 # Check if the cheatsheet file exists
 if [[ ! -f "$CHEATSHEET_FILE" ]]; then
@@ -10,5 +10,5 @@ if [[ ! -f "$CHEATSHEET_FILE" ]]; then
 fi
 
 # Read the cheatsheet file and display it with rofi
-cat "$CHEATSHEET_FILE" | rofi -dmenu -p "Bspwm Cheatsheet" -theme /home/n3tshad0w/.config/bspwm/cheatsheet/cheatsheet.rasi
+cat "$CHEATSHEET_FILE" | rofi -dmenu -p "Bspwm Cheatsheet" -theme ~/.config/bspwm/cheatsheet/cheatsheet.rasi
 
