@@ -171,7 +171,7 @@ En caso de que estes muy perdido en el entorno o te surja alguna duda acude a la
 
 
 <br>
-Hay un CheatSheet en desarrollo con el  <kbd>Super</kbd> + <kbd>C</kbd>
+Abrir CHeatsheet con <kbd>Super</kbd> + <kbd>C</kbd>
 
 </details>
 
