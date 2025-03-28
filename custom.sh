@@ -244,7 +244,7 @@ else
 
 	echo -e "\n${purpleColour}[*] Descargando docker y docker-compose...\n${endColour}"
 	sleep 2
- 	sudo apt install docker.io
+ 	sudo apt install docker.io -y
 	sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-linux-x86_64" -o /usr/local/bin/docker-compose
  	sudo chmod +x /usr/local/bin/docker-compose
 	echo -e "\n${greenColour}[+] Finalizado\n${endColour}"
@@ -254,7 +254,6 @@ else
 	sleep 2
 	chmod -R +x ~/.config/bspwm/
 	chmod +x ~/.config/polybar/launch.sh
-	sudo chmod +x /usr/local/bin/whichSystem.py
 	sudo chmod +x /usr/local/share/zsh/site-functions/_bspc
 	sudo chown root:root /usr/local/share/zsh/site-functions/_bspc
 	cd ..
