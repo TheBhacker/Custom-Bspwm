@@ -22,7 +22,7 @@
 
 ## Requisitos
 - Kali Linux (o Debian-based)
-- Git instalado
+- Git y Curl instalados
 - Acceso a internet para descargar dependencias
 - Tener zsh como shell predeterminada o almenos tener .zshrc.
 
