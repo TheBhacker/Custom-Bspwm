@@ -20,11 +20,12 @@
 
 <br>
 
-## Requisitos
-- Kali Linux (o Debian-based)
-- Git y Curl instalados
-- Acceso a internet para descargar dependencias
-- Tener zsh como shell predeterminada o almenos tener .zshrc.
+> [!IMPORTANT]
+> ## Requisitos
+> - Kali Linux (o Debian-based)
+> - Git y Curl instalados
+> - Acceso a internet para descargar dependencias
+> - Tener zsh como shell predeterminada o almenos tener .zshrc.
 
 <br>
 
