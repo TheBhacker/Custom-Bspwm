@@ -48,7 +48,7 @@
 
 <br>
 
-![PNG](/Preview/preview1.png "bspwm")
+![PNG](/Preview/preview.png "bspwm")
 
 <br>
 
